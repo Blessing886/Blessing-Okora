@@ -20,8 +20,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats]()  
-![Top Languages]()  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blessing886&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing886&layout=compact&theme=radical)
+  
 
 ---
 
