@@ -23,11 +23,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blessing886&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing886&layout=compact&theme=radical)
   
-
 ---
-
-
-
+- [Task Management System] (https://github.com/Blessing886/task-manager-frontend.git) - A task mananagement system that allows users to manage tasks and users using react.js and a flask API.
+- [Yummy!] (https://github.com/Blessing886/yummy.git) -A recipe app that enables users search and add recipes using react.js and json.
+  
 ---  
 
-💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House* 😃
+![LinkedIn] (https://www.linkedin.com/in/blessing-okora-494866269/)
+
